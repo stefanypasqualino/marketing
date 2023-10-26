@@ -1,0 +1,18 @@
+body{background-color: rgb(118, 118, 239);
+}
+h1 {text-align: center;
+}
+h1 {border:solid 3px grey;
+}
+#imal {width:20%;
+}
+#make {width:50%;
+}
+#ting {width:50%;
+}
+#imal {margin-left:20%;
+}
+#make {margin-left:50%;
+}
+#ting {margin-left:50%;
+}
